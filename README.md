@@ -128,8 +128,17 @@ Improving analytical and business decision-making skills
 **Conclusion**  
 This project helped develop practical knowledge in financial modelling and business analytics by applying financial analysis techniques to a real-world company dataset.  
 
+## Project Preview
 
-
+**One Page Report**  
+<img width="443" height="782" alt="One_Page_Report" src="https://github.com/user-attachments/assets/9a4d585b-30ed-4c1a-beaf-a533d416e248" />  
+**Ratio Analysis**  
+<img width="1152" height="766" alt="Ratio_Analysis" src="https://github.com/user-attachments/assets/008f464f-8ad9-4faf-9a46-90b5c8689945" />  
+**Forecasting**  
+<img width="415" height="792" alt="Forecasting_Charts" src="https://github.com/user-attachments/assets/47c83169-0bc0-4261-a48d-d7f6535f5b11" />  
+  
+  
+  
 **Author**  
-Shreshta Lolak  
+Shreshta Lolokapuri  
 Business Analytics Student  
